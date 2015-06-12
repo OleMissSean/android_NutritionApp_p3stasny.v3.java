@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">p3stasny.v3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="nameArray">
+        <item>vitaminbone</item>
+        <item>vitaminbtwo</item>
+        <item>vitaminbthree</item>
+        <item>vitaminbfive</item>
+        <item>vitaminbsix</item>
+        <item>vitaminbseven</item>
+        <item>vitaminbnine</item>
+        <item>vitaminbtwelve</item>
+        </string-array>
+
+    <string-array name="nameArray2">
+        <item>Vitamin B1</item>
+        <item>Vitamin B2</item>
+        <item>Vitamin B3</item>
+        <item>Vitamin B5</item>
+        <item>Vitamin B6</item>
+        <item>Vitamin B7</item>
+        <item>Vitamin B9</item>
+        <item>Vitamin B12</item>
+    </string-array>
+
+    <string-array name="nutrDescr">
+        <item>Calcium makes up more of the body than an other mineral. Calcium\'s functions include delivering signals between brain cells, building strong bones and teeth, regulating muscle contractions, and aids in blood clotting. Adults need 700 mg of Calcium a day.</item>
+        <item>Most of us know that too much sodium in the form of salt can raise blood pressure. Less well known is that fact that too little potassium also contributes to blood pressure. Falling short on potassium may also increase the risk of kidney stones and osteoporosis.</item>
+        <item>Magnesium is required for more than 300 biochemical reactions in the body. It helps regulate blood pressure, maintains bone strength, and ensures a healthy immune system. Magnesium also aids in the health of brain cells.</item>
+        <item>Iodine is a mineral found in some foods. The body needs iodine to make thyroid hormones. These hormones control the body\'s metabolism and many other important functions. The body also needs thyroid hormones for proper bone and brain development during pregnancy and infancy.</item>
+        <item>Phosphorus is an essential nutrient required for proper cell functioning, regulation of calcium, strong bones and teeth, and for making ATP (adenosine triphosphate) a molecule which provides energy to our cells. A deficiency in phosphorus can lead to lowered appetite, anemia, muscle pain, improper bone formation (rickets), numbness, and a weakened immune system.</item>
+        <item>Your body needs sodium to maintain blood pressure and for normal nerve and muscle function. Getting too much sodium might cause blood pressure problems that can lead to health problems. It\'s easy to get enough sodium from the foods you eat and, in fact, it\'s more likely that you\'re getting more sodium than you need.</item>
+        <item>This crucial nutrient is key to maintaining healthy eyesight and robust immunity. It also plays a role in many other physiological functions, including tissue growth.</item>
+        <item>The B vitamin family is made up of eight B vitamins. Although they are commonly recognized as a group and often work together in the body, each of the B vitamins performs unique and important functions.</item>
+        <item>Vitamin C may not ward off colds, as once believed, but it is essential for maintaining a strong immune system. A potent antioxidant, vitamin C may help lower the risk of cancer. It\'s also required for wound healing. The 2010 Dietary Guidelines for Americans reports that some diets fall short of this critical nutrient.</item>
+        <item>The sunshine vitamin, D is produced by the skin when we\'re exposed to sunlight. Since many of us work inside, we may not get enough sun exposure to generate adequate vitamin D. Although recent research suggests that vitamin D may be important for a range of functions, the best evidence points to its essential role in building and maintaining strong bones.</item>
+        <item>Vitamin E is a potent antioxidant. By neutralizing unstable oxygen molecules, it may help prevent damage to cells that could lead to cancer. Severe vitamin E deficiencies can cause nerve damage. Because many Americans don\'t get enough nuts and unsaturated oils, they may be in danger of falling short on this crucial nutrient.</item>
+        <item>Vitamin K is essential for normal blood clotting. It also appears to play crucial roles in bone mineralization and cell growth. Falling short may cause bruising, nosebleeds, and brittle bones, among other problems.</item>
+        <item>A higher-fiber diet has been shown to lower blood cholesterol levels and prevent constipation. High-fiber foods also tend to contain more nutrients and fewer calories, are digested more slowly, and help us feel full sooner. Adults are recommended 30 to 45 grams a day.</item>
+        <item>Choline is utilized by the body in a variety of ways including aiding nerve signaling, maintenance of cell membranes, transporting triglycerides from the liver, and as a constituent of nervous system tissues in early brain development.</item>
+        <item>Linoleic acid, or omega-6 fatty acid, and linolenic acid, or omega-3 fatty acid, are the two essential fatty acids. They are termed as essential because the body cannot synthesize them and needs to obtain them from the diet. Both omega-3 and omega-6 fatty acids are important components of cell membranes and are precursors to many other substances in the body such as those involved with regulating blood pressure and inflammatory responses.</item>
+        <item>Linolenic acid, or omega-3 fatty acid, and linoleic acid, or omega-6 fatty acid, are the two essential fatty acids. They are termed as essential because the body cannot synthesize them and needs to obtain them from the diet. Both omega-3 and omega-6 fatty acids are important components of cell membranes and are precursors to many other substances in the body such as those involved with regulating blood pressure and inflammatory responses.</item>
+        <item>Histidine regulates the immune defense in the body, allergic reactions and inflammatory processes, so a deficiency of L-histidine can lead to an increased tendency towards infection and the aggravation of symptoms of allergies.</item>
+        <item>Isoleucine is one of the amino acids, which are the building blocks of proteins. The proteins in the food you eat and the proteins in your body all contain variable amounts of isoleucine. Your cells use the isoleucine you eat for several different purposes, including helping to provide your cells with energy.</item>
+        <item>Like many amino acids, lysine is used to build muscles and collagen, which is an important constituent of cartilage, connective tissue and skin. It must be obtained from dietary sources because your body cannot synthesize it.</item>
+        <item>Lysine is one of 20 amino acids commonly used by your body to build protein. Of these 20, lysine is considered an essential amino acid, which means it must be obtained from dietary sources because your body cannot synthesize it. Plants can make lysine from aspartic acid, as can bacteria species, which is why lysine is found within leafy vegetables, legumes, fish and herbivorous animals.</item>
+        <item>When protein is in food the food, your digestive system breaks it down into amino acids, and your body uses these to manufacture hundreds of new proteins needed by all your cells. Two amino acids, called cysteine and methionine, are unusual because they contain the element sulfur, which plays an important role in determining the shape of new proteins by helping these compounds fold.</item>
+        <item>Phenylalanine is an essential amino acid (a building block for proteins in the body), meaning the body needs it for health but cannot make it. You have to get it from food.The body changes phenylalanine into tyrosine, another amino acid that\'s needed to make proteins; brain chemicals, including L-dopa, epinephrine, and norepinephrine; and thyroid hormones. Because norepinephrine affects mood, different forms of phenylalanine have been proposed to treat depression.</item>
+        <item>Threonine is one of the 20 amino acids that constitute proteins. It is an essential amino acid and not synthesized by humans. Therefore, threonine has to be obtained from dietary sources. Threonine supports cardiovascular, liver, central nervous, and immune system function. Threonine aids in the synthesis of glycine and serine, two amino acids that help in the production of collagen, elastin, and muscle tissue. Threonine helps build strong bones and tooth enamel.</item>
+        <item>Amino acids help to create proteins that aid in neurotransmission messages to and from the brain. Tryptophan is an essential amino acid that plays a vital role in this process. Tryptophan is a precursor of 5-HTP or serotonin which is acquired from dietary sources. Tryptophan combines with vitamin B6, transforming into serotonin and niacin in the liver. This helps to improve blood circulation, enhance memory and lower cholesterol.</item>
+        <item>Valine is a branched-chain amino acid (BCAA) that works with the other two BCAAs, isoleucine and leucine, to promote normal growth, repair tissues, regulate blood sugar, and provide the body with energy. Valine helps stimulate the central nervous system, and is needed for proper mental functioning. Valine helps prevent the breakdown of muscle by supplying the muscles with extra glucose for energy production during intense physical activity.</item>
+    </string-array>
+
+    <string-array name="nutrSources">
+        <item>• Leafy greens \n• Sesame seeds \n• Oranges \n• Almonds \n• Beans \n• Chia seeds</item>
+        <item>• Potatoes \n• Tomatoes \n• Spinach \n• Carrots \n• Beans \n• Lentils \n• Green Peas \n• Bananas \n• Oranges</item>
+        <item>•	Oatmeal \n• Nuts \n• Peanut Butter \n• Lentils \n• Spinach</item>
+        <item>•	Yogurt \n• Organic Eggs \n• Seaweed \n• Cranberries \n• Navy Beans \n• Strawberries</item>
+        <item>•	Pumpkin Seeds \n• Squash Seeds \n• Sunflower Seeds \n• Chia Seeds \n• Sesame Seeds \n• Watermelon Seeds \n• Flaxseeds \n• Wild Caught Salmon \n• Brazil Nuts \n• Pine Nuts</item>
+        <item>*(CONSUME WITH CAUTION)* - Though Sodium is an Essential Mineral you don\'t need a lot of it to perform these functions, and getting too much will put the electrolytes out of balance and lead to many health problems. Sodium is found naturally in most of the foods you eat, at least in small amounts, with much larger amounts in soy sauce and processed foods.</item>
+        <item>•	Dark green veggies \n• Bright colored veggies \n• Squash \n• Mango \n• Sweet potatoes</item>
+        <item>•	Red Meats \n• Yeast \n• Nuts \n• Sunflower Seeds \n• Peas \n• Cauliflower \n• Spinach \n• Legumes </item>
+        <item>•	Citrus Fruits \n• Peaches \n• Broccoli \n• Kale \n• Cauliflower</item>
+        <item>•	Sunlight \n• Mushrooms \n• Organic Eggs \n• Tuna \n• Wild Caught Salmon \n• Sunflower Seeds</item>
+        <item>•	Almonds \n• Sunflower Seeds \n• Avocados \n• Bell Peppers \n• Red Chili Powder \n• Paprika</item>
+        <item>•	Broccoli \n• Avacado \n• Green apples \n• Green grapes \n• Limes \n• Green Beans \n• Cabbage</item>
+        <item>•	Brown Rice \n• Kale \n• Beans \n• Avocados \n• Rasberries \n• Broccoli \n• Oats \n• Green Peas \n• Cereal</item>
+        <item>•	Pastured Eggs \n• Beef Liver \n• Grass-Fed Raw Dairy \n• Nuts and Legumes \n• Cruciferous Veggies</item>
+        <item>•	Plant Oils \n• Nuts \n• Avocados \n• Fish \n• Organic Eggs</item>
+        <item>•	Plant Oils \n• Nuts \n• Avocados \n• Fish \n• Organic Eggs</item>
+        <item>•	Grass-Fed Red Meat \n• Free-Range Poultry \n• Fish \n• Dairy \n• Rice \n• Wheat \n• Rye \n• Seafood \n• Beans \n• Organic Eggs \n• Buckwheat \n• Corn \n• Cauliflower \n• Mushrooms \n• Potatoes \n• Bamboo shoots</item>
+        <item>•	Lean meats \n• Green beans \n• Lentils \n• Sesame seeds \n• Hummus \n• Brown Rice</item>
+        <item>•	Leafy Green Vegetables \n• Legumes (Peanuts) \n• Fish \n• Herbivorous animals \n• Supplements</item>
+        <item>•	Leafy Green Vegetables \n• Cauliflower \n• Celery \n• Legumes •	Bananas \n• Apples \n• Almonds \n• Grass-Fed Red Meat</item>
+        <item>•	Free-Range Poultry \n• Organic Eggs \n• Oats \n• Yogurt \n• Broccoli \n• Wheat germ \n• Red peppers \n• Onions \n• Garlic \n• Brussels Sprouts</item>
+        <item>•	Seaweed \n• Organic Eggs \n• Turkey \n• Farm-Raised Chicken \n• Peanuts \n• Pumpkin Seeds \n• Sesame Seeds</item>
+        <item>•	Spinach \n• Turnip Greens \n• Seaweed \n• Tofu \n• Pumpkin Leaves \n• Portabella Mushrooms \n• Kale</item>
+        <item>•	Seaweed \n• Spinach \n• Pumpkin Seeds \n• Oat Bran \n• Tofu \n• Alaska King Crab \n• Shrimp</item>
+        <item>•	Portabella Mushrooms \n• Podded Peas \n• Raw Enoki Mushrooms \n• Seaweed \n• Moose \n• Turkey Breast \n• Turnip Greens \n• Raw Cauliflower</item>
+    </string-array>
+</resources>
